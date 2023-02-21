@@ -1,29 +1,23 @@
 {
-  "name": "RepoCow",
-  "identifier": "com.tThresh.RepoCow",
-  "sourceURL": "https://mysource.com/apps.json",
-  "apps": [
-  {
-    "name": "FileSwitcherPro",
-    "bundleIdentifier": "com.straighttamago.fileswitcherpro",
-    "developerName": "straight_tamago",
-    "subtitle": "Jailbreak-like iPhone customization",
-    "versions": [
-      {
-        "version": "1.2",
-        "date": "2022-02-18",
-        "localizedDescription": "Deployed onto AltStore",
-        "downloadURL": "https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/IPAs/FileSwitcherPro.ipa",
-        "size": 2580000
-      }
-    ],
-    "localizedDescription": "FileSwitcherPro is a successor of FileSwitcherX. Users can customize as they wish: \n•Automate the replacement of favorite files \n•Customize the home screen by arranging only favorite tweaks. \n•Freely change the colors of the control center, notifications, dock, and folders. \n•Change carrier name and beta alert text. \n•Importing a file that has been modified in another app will allow all changes to be applied in just this app.",
-    "iconURL": "https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/Images/FileSwitcherPro.jpg",
-    "tintColor": "FFFFFF",
-    "screenshotURLs": [
-      "https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/Screenshots/FileSwitcherPro/1.jfif"
-    ],
-    "beta": false
-  }
-]
-}
+	"name": "RepoCow",
+	"identifier": "com.threshold.repocow",
+	"apps": [{
+			"name": "FileSwitcherPro",
+			"bundleIdentifier": "com.straighttamago.fileswitcherpro",
+			"developerName": "straight_tamago",
+			"subtitle": "Jailbreak-like iPhone customization",
+			"versions": [{
+				"version": "1.2",
+				"date": "2022-02-18",
+				"localizedDescription": "Deployed onto AltStore",
+				"downloadURL": "https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/IPAs/FileSwitcherPro.ipa",
+				"size": 2580000
+			}],
+			"localizedDescription": "FileSwitcherPro is a successor of FileSwitcherX. Users can customize as they wish: \n•Automate the replacement of favorite files \n•Customize the home screen by arranging only favorite tweaks. \n•Freely change the colors of the control center, notifications, dock, and folders. \n•Change carrier name and beta alert text. \n•Importing a file that has been modified in another app will allow all changes to be applied in just this app.",
+			"iconURL": "https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/Images/FileSwitcherPro.jpg",
+			"tintColor": "FFFFFF",
+			"screenshotURLs": [
+				"https://raw.githubusercontent.com/tThresh/RepoCow/main/Assets/Screenshots/FileSwitcherPro/1.jfif"
+			]
+		}]
+	}
